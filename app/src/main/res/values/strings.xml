@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">オタク電話</string>
+    <string name="desc">スプラッシュ画面</string>
+    <string name="menu_settings">Settings</string>
+    <string name="caller">話し相手を探す</string>
+    <string name="receiver">相談されたい</string>
+    <string name="category_title">あなたは</string>
+    <string name="category_title_after">オタク</string>
+    <string name="point_title">人気カテゴリー ランキング</string>
+    <string name="point_1">1位</string>
+    <string name="point_2">2位</string>
+    <string name="point_3">3位</string>
+    <string name="message_title">一言メッセージ（相手に通知されます）</string>
+    <string name="message_edit">編集</string>
+    <string name="message_sample">黒バス/うたプリ/マギ/薄桜鬼が好きです</string>
+    <string name="banner_ad_unit_id">ca-app-pub-xxxxxxxxxx/xxxxxxxxxx</string>
+    
+    <string-array name="momo_member_name">
+        <item >箱推し</item>
+        <item >かなこ推し</item>
+        <item >しおりん推し</item>
+        <item >あーりん推し</item>
+        <item >ももか推し</item>
+        <item >れにちゃん推し</item>
+    </string-array>
+
+</resources>
